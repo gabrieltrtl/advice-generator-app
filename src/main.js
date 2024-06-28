@@ -23,6 +23,8 @@ function fetchAdvice() {
 
 fetchAdvice();
 
+adviceBtn.addEventListener('click', fetchAdvice);
+
 
 
 

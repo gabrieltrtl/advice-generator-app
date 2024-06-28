@@ -78,5 +78,12 @@ body {
 
 .advice__btn {
   position: absolute;
-  bottom: -12px;
+  bottom: -32px;
+  padding: 20px;
+  background-color: #53FFAA;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.advice__btn:hover {
+  box-shadow: 0 0 40px 0 #53FFAA;
 }/*# sourceMappingURL=styles.css.map */
